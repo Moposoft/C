@@ -1,2 +1,2 @@
 # C
-Vaalikone Hatjoitustyö
+Vaalikone Harjoitustyö 
